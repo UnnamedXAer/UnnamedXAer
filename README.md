@@ -1,7 +1,15 @@
+
 ### Hi there 👋
 
 ![UnnamedXAer](https://secure.gravatar.com/avatar/592a1ad06ac83ef0da702aa10d6d4897)
-> Remeber to take a coffee break.
+
+```diff
+while (working) {
++ // @improvement: Remember to have a coffee.
+  doWorkUnit();
+}
+```
+
 <!--
 **UnnamedXAer/UnnamedXAer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
