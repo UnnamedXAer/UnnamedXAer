@@ -1,26 +1,6 @@
 
-### 👋🏻
-
 ![UnnamedXAer](https://secure.gravatar.com/avatar/592a1ad06ac83ef0da702aa10d6d4897)
 
 ```diff
-while (working) {
-+ // @improvement: Remember to have a coffee.
-  doWorkUnit();
-}
++ 1
 ```
-
-<!--
-**UnnamedXAer/UnnamedXAer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
